@@ -1,3 +1,5 @@
+# This repo is now outdated, please go to [eventhub](https://github.com/tranvuongduy2003/eventhub)
+
 # EventHub
 
 EventHub is an advanced event management platform built using modern software design principles and patterns. This README serves as a guide for understanding the architecture, folder structure, patterns, and deployment details of the application.
